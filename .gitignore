@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+### Java template
+*.class
+
+atlassian-ide-plugin.xml
+
+### IntelliJ Project files
+*.iml
+.idea/
+
+target/
+log.txt
+lib
+
+.project
+.settings
+.classpath
+
+.DS_Store
